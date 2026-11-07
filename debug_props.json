@@ -1,0 +1,524 @@
+{
+  "status": "success",
+  "dynamicHeading": "4 results | Villa Properties for Sale in Chennai, Tamilnadu",
+  "data": [
+    {
+      "id": 297,
+      "title": "Jones Cassia",
+      "location": "Ottiyambakkam, Chennai, Tamil Nadu, India",
+      "priceRange": "₹ 1.50 Cr - 2.30 Cr",
+      "developer": null,
+      "mainImage": "https://www.homewala.com/homewala/assets/img/property/slider-images/6875f4466682d.jpeg",
+      "highlightTitle": "Why Maple Sky Residences at Jones Cassia?",
+      "highlights": [
+        "Provides Electric car charge points, automated ventilation system in parking with CO sensor",
+        "79% open space is there",
+        "Self-cleansing garbage chutes"
+      ],
+      "postHighlights": "<table border=\"1\">\n\n<tr>\n<td>🎓 Schools Nearby</td>\n<td>HLC International School</td>\n<td>3 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Amethyst International School</td>\n<td>0.5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Bala Vidya Mandir</td>\n<td>3.5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>St. Johns Public School</td>\n<td>6 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Padma Seshadri Bala Bhavan</td>\n<td>4.5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Vels Vidhyashram School</td>\n<td>5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Sathyabama University</td>\n<td>4 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Maharishi Vidhya Mandir</td>\n<td>6.5 km</td>\n</tr>\n<tr>\n<td>🏥 Hospitals Nearby</td>\n<td>Kamakshi Multispeciality Clinic</td>\n<td>5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Global Multi Speciality Hospital</td>\n<td>7 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Chettinad Hospital</td>\n<td>14 km</td>\n</tr>\n<tr>\n<td>✈️ Transport</td>\n<td>Tambaram Bus Stand</td>\n<td>14 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Tambaram Railway Station</td>\n<td>14 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Velachery Railway Station</td>\n<td>13 km</td>\n</tr>\n<tr>\n<td>🏢 IT / Work Hubs</td>\n<td>SIPCOT IT Park</td>\n<td>7.5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>ELCOT</td>\n<td>8 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Infosys</td>\n<td>8 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>TCS</td>\n<td>7.5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Accenture</td>\n<td>7.5 km</td>\n</tr>\n\n</table>",
+      "gallery": [
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6875f4466682d.jpeg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6875f44cdc187.jpeg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6875f457199ef.png",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/68777904c3c98.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6877790567786.jpg"
+      ],
+      "details": {
+        "possessionStatus": "Under Construction",
+        "averagePrice": "₹ 7,500.00 K/sq.ft",
+        "buildupArea": "1777 - 2359 Sq.ft",
+        "ownerType": "Single",
+        "furnishing": "Unfurnished",
+        "postedOn": "10 / 07 / 2025",
+        "facing": "East",
+        "parking": "Car and Bike",
+        "floor": "2",
+        "possessionDate": null
+      },
+      "propertyAmenities": [
+        {
+          "name": "Car Parking",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "CCTV",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Rain Water Harvesting",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Fire Fighting System",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Gym",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Spa",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Wi-Fi",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Swimming Pool",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Tennis Court",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "24X7 Water Supply",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Jogging Track",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Gated Community",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Indoor Games",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Intercom",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Children's Play Area",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Yoga / Meditation Area",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Library",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "24x7 Security",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Power Backup",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Party Hall",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Street Lighting",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Sewage Treatment",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Badminton Court",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Multipurpose Room",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Vastu Compliant",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Club House",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Energy management",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        }
+      ],
+      "moreAboutProjects": [],
+      "floorSections": {
+        "image": "https://www.homewala.com/homewala/assets/img/noimage.jpg",
+        "averagePrice": "₹ 7,500.00 K/sq.ft",
+        "status": "Under Construction",
+        "buildUpArea": "1777 - 2359 Sq.ft"
+      },
+      "description": "Jones Cassia Phase VII is a premium villa project by Jones Foundations, located in Ottiyambakkam within a 40-acre gated community that already houses over 500 happy families.Rera Number is TN/35/Building/0496/2023 (for Phase VII) and TN/01/Building/0469/2022 (for Phase VI). This latest phase offers 74 elegantly designed 3BHK villas, blending modern architecture with a peaceful, green environment. With top-notch amenities including a clubhouse, multiple parks, dedicated gyms, and even an in-campus MS Dhoni Global School, the project promises a complete lifestyle experience. Positioned close to Sholinganallur, Medavakkam, and Siruseri IT corridors, Jones Cassia offers both connectivity and comfort, making it an ideal choice for families and professionals seeking quality living in South Chennai.Jones Cassia by Jones Foundations is an elegant residential villa community located in Ottiyambakkam, Chennai (Pin code: 600130), offering a perfect blend of luxury, comfort, and modern design. Spread across approximately 40 acres, the project features spacious 3 and 4 BHK villas ranging from 1,777 sq.ft to 2,360 sq.ft, thoughtfully crafted to provide ample natural light and ventilation. Situated near Thalambur Main Road, it enjoys excellent connectivity to Medavakkam, Perumbakkam, and OMR, with reputed schools, hospitals, and IT hubs nearby. Designed for refined urban living, the gated community offers premium amenities like a swimming pool, gym, landscaped gardens, and play areas, ensuring a wholesome lifestyle for families. With its ready-to-move status, serene surroundings, and prime location, Jones Cassia stands out as an ideal choice for those seeking a luxurious home or a smart investment in South Chennai.",
+      "faqs": [],
+      "isFavourites": false
+    },
+    {
+      "id": 449,
+      "title": "Adityaram Palace City",
+      "location": "Akkarai, Injambakkam, Chennai, Tamil Nadu, India",
+      "priceRange": "₹ 4.30 Cr - 8.50 Cr",
+      "developer": null,
+      "mainImage": "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d44971465.jpg",
+      "highlightTitle": "Why Maple Sky Residences at Adityaram Palace City?",
+      "highlights": [
+        "Provides Electric car charge points, automated ventilation system in parking with CO sensor",
+        "79% open space is there",
+        "Self-cleansing garbage chutes"
+      ],
+      "postHighlights": "<table border=\"1\">\n\n<tr>\n<td>🏫 Nearby Schools</td>\n<td>Campus K IGCSE School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Narayana E-Techno School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Ellen Sharma Memorial School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Gateway The Complete School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>PSBB Millenium School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Babaji Vidyashram School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Sacred Heart Matric School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Velammal Vidyalaya</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Parent Choice International Pre School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>NPS International School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>JS Global School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Ramana Vidyalaya School</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td>🎓 Nearby Colleges</td>\n<td>Sathyabama University</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>St Joseph’s Institute of Technology</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Jeppiar Engineering College</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>KCG College of Technology</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Agni College of Technology</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td>🏥 Nearby Hospitals</td>\n<td>Gleneagles Global Health City</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Apollo Cradle</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Dr. Kamakshi Memorial Hospital</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Apollo Speciality Hospital</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Chettinad Healthcity Hospital</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td>📍 Nearby Vicinities</td>\n<td>Thiruvanmiyur</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Madhya Kailash</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Perungudi</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Thoraipakkam</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Velachery</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>ELCOT SEZ</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>SIPCOT</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td>🚉 Connectivity</td>\n<td>Chennai International Airport</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Chennai Central Railway Station</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Sholinganallur Bus Stop</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Proposed Sholinganallur Metro</td>\n<td>Nearby</td>\n</tr>\n\n</table>",
+      "gallery": [
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d44971465.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d44da5af1.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d44da5af1.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d44db7dbf.webp",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d849e8cf2.webp",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d849e8cf2.webp",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d84a09853.webp",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/6996d84a0e0c7.webp"
+      ],
+      "details": {
+        "possessionStatus": "New Launch",
+        "averagePrice": "₹ 0.00 K/sq.ft",
+        "buildupArea": "2917 - 5808 Sq.ft",
+        "ownerType": "Single",
+        "furnishing": "Unfurnished",
+        "postedOn": "19 / 02 / 2026",
+        "facing": "East",
+        "parking": "Car and Bike",
+        "floor": "2",
+        "possessionDate": null
+      },
+      "propertyAmenities": [
+        {
+          "name": "CCTV",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Gym",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Swimming Pool",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Flower Garden",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "24X7 Water Supply",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Gated Community",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Intercom",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Children's Play Area",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Power Backup",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Club House",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Community Hall",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        }
+      ],
+      "moreAboutProjects": [],
+      "floorSections": {
+        "image": "https://www.homewala.com/homewala/assets/img/noimage.jpg",
+        "averagePrice": "₹ 0.00 K/sq.ft",
+        "status": "New Launch",
+        "buildUpArea": "2917 - 5808 Sq.ft"
+      },
+      "description": "The Rera Number is TN/29/Layout/1271/2023,Adityaram Palace City is a premium residential plotted community developed by Adityaram Properties, strategically located in one of Chennai’s emerging growth corridors. The project offers thoughtfully designed DTCP &amp; RERA-approved villa plots with clear titles and well-laid infrastructure, enabling homebuyers to build custom homes of their choice. Positioned to provide convenient connectivity to key lifestyle amenities, educational institutions, healthcare facilities, employment hubs, and major transport links, Palace City blends serene suburban living with urban accessibility. With a focus on quality planning and future appreciation potential, the development appeals to both families seeking a balanced lifestyle and investors looking for long-term value in a growing residential market.",
+      "faqs": [],
+      "isFavourites": false
+    },
+    {
+      "id": 494,
+      "title": "Inara",
+      "location": "OMR Road, Navalur, Tamil Nadu, India",
+      "priceRange": "₹ 1.00 Cr - 3.00 Cr",
+      "developer": null,
+      "mainImage": "https://www.homewala.com/homewala/assets/img/property/slider-images/69a28fd146a52.jpg",
+      "highlightTitle": "Why Maple Sky Residences at Inara?",
+      "highlights": [
+        "Provides Electric car charge points, automated ventilation system in parking with CO sensor",
+        "79% open space is there",
+        "Self-cleansing garbage chutes"
+      ],
+      "postHighlights": "<table border=\"1\">\n\n<tr>\n<td>🏡 Project Highlights</td>\n<td>Upcoming World-class Sports City</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Near BVM Global &amp; PSBB Schools</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>State-of-the-art Clubhouse Amenities</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Standalone Video Door Phone</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Split ACs in All Rooms</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Seismic-compliant RCC Structure</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Award-winning On-time Delivery</td>\n<td>Nearby</td>\n</tr>\n<tr>\n<td> </td>\n<td>Exclusive Land Ownership</td>\n<td>Nearby</td>\n</tr>\n\n</table>",
+      "gallery": [
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69a28fd146a52.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69a28fd57ef01.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69a28fd587265.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69a28fd5b80d2.jpg"
+      ],
+      "details": {
+        "possessionStatus": "Ready to Move",
+        "averagePrice": "₹ 9,000.00 K/sq.ft",
+        "buildupArea": "1558 - 3697 Sq.ft",
+        "ownerType": "Single",
+        "furnishing": "Unfurnished",
+        "postedOn": "28 / 02 / 2026",
+        "facing": "East",
+        "parking": "Car and Bike",
+        "floor": "2",
+        "possessionDate": null
+      },
+      "propertyAmenities": [
+        {
+          "name": "Lift",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Rain Water Harvesting",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Swimming Pool",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "24X7 Water Supply",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Jogging Track",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Senior Citizen Siteout",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Indoor Games",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Children's Play Area",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Yoga / Meditation Area",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Barbecue Area",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "24x7 Security",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Power Backup",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Street Lighting",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Compound Wall",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Party lawn",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Reflexology Park",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Internal Roads & Footpaths",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Dart Board",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Storm Water Drains",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Reading Lounge",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Billiards / Snooker Table",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Carrom",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        }
+      ],
+      "moreAboutProjects": [],
+      "floorSections": {
+        "image": "https://www.homewala.com/homewala/assets/img/noimage.jpg",
+        "averagePrice": "₹ 9,000.00 K/sq.ft",
+        "status": "Ready to Move",
+        "buildUpArea": "1558 - 3697 Sq.ft"
+      },
+      "description": "This is Rera Number TN/35/Layout /2140/ 024, DRA Inara is a premium luxury villa project located in Navalur along Chennai’s OMR IT corridor, offering spacious 3, 4, and 5 BHK independent villas with exclusive land ownership. Spread across about 6 acres, the project consists of around 118 villas designed with modern architecture and high-quality specifications, providing a comfortable and elegant lifestyle. Strategically located near major IT hubs, schools, hospitals, and entertainment zones, the project ensures excellent connectivity and convenience for residents.",
+      "faqs": [],
+      "isFavourites": false
+    },
+    {
+      "id": 544,
+      "title": "Town And Country",
+      "location": "Sriperumbudur, Tamil Nadu, India",
+      "priceRange": "₹ 87.00 Lac - 1.20 Cr",
+      "developer": null,
+      "mainImage": "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d2e3545.jpg",
+      "highlightTitle": "Why Maple Sky Residences at Town And Country?",
+      "highlights": [
+        "Provides Electric car charge points, automated ventilation system in parking with CO sensor",
+        "79% open space is there",
+        "Self-cleansing garbage chutes"
+      ],
+      "postHighlights": "<table border=\"1\">\n\n<tr>\n<td>✈️ Airport</td>\n<td>Chennai International Airport</td>\n<td>42 km</td>\n</tr>\n<tr>\n<td>🚌 Transport</td>\n<td>Sriperumbudur Bus Terminus</td>\n<td>5 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Ramanujar Exit Arch</td>\n<td>6 km</td>\n</tr>\n<tr>\n<td>🏢 Companies</td>\n<td>Nokia</td>\n<td>10 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Hyundai</td>\n<td>10 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Empee Distilleries</td>\n<td>13 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>Delphi TVS</td>\n<td>7 km</td>\n</tr>\n<tr>\n<td>🏫 Schools</td>\n<td>Kshetra Vidyalaya School</td>\n<td>3 km</td>\n</tr>\n<tr>\n<td> </td>\n<td>St. Joseph’s Residential School</td>\n<td>11 km</td>\n</tr>\n<tr>\n<td>🎓 Colleges</td>\n<td>Saveetha Engineering College</td>\n<td>14 km</td>\n</tr>\n<tr>\n<td>🎢 Entertainment</td>\n<td>Queens Land Theme Park</td>\n<td>16 km</td>\n</tr>\n<tr>\n<td>📍 Nearby Areas</td>\n<td>Koyambedu</td>\n<td>35 km</td>\n</tr>\n\n</table>",
+      "gallery": [
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d2e3545.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d857504.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d857503.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d875ece.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d875ece.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d89005c.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d890004.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d8aaf0d.jpg",
+        "https://www.homewala.com/homewala/assets/img/property/slider-images/69aa60d8aaf0d.jpeg"
+      ],
+      "details": {
+        "possessionStatus": "Ready to Move",
+        "averagePrice": "₹ 0.00 K/sq.ft",
+        "buildupArea": "875 Sq.ft",
+        "ownerType": "Single",
+        "furnishing": "Unfurnished",
+        "postedOn": "06 / 03 / 2026",
+        "facing": "East",
+        "parking": "Car and Bike",
+        "floor": "2",
+        "possessionDate": null
+      },
+      "propertyAmenities": [
+        {
+          "name": "Car Parking",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Gym",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Swimming Pool",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Tennis Court",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Gated Community",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Indoor Games",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "ATM",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "24x7 Security",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Power Backup",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Conference Room",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Club House",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Billiards / Snooker Table",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        },
+        {
+          "name": "Health Facilities",
+          "icon": "https://www.homewala.com/homewala/assets/img/noimage.jpg"
+        }
+      ],
+      "moreAboutProjects": [],
+      "floorSections": {
+        "image": "https://www.homewala.com/homewala/assets/img/noimage.jpg",
+        "averagePrice": "₹ 0.00 K/sq.ft",
+        "status": "Ready to Move",
+        "buildUpArea": "875 Sq.ft"
+      },
+      "description": "Lancor Town and Country is a large gated residential villa community developed by Lancor Holdings Ltd. in Ayakolathur near Sriperumbudur, Chennai. Spread across about 92 acres, the project offers thoughtfully designed 3, 4 and 5 BHK villas with built-up areas ranging approximately from 1448 sq.ft to 2464 sq.ft. The community is designed to provide a peaceful lifestyle surrounded by greenery while still being connected to key employment hubs and industrial corridors around Sriperumbudur. Residents benefit from modern amenities such as a clubhouse, swimming pool, gymnasium, indoor games, landscaped spaces, and 24x7 security. Each villa is planned with good ventilation, natural lighting, private garden spaces and dedicated parking, making it an ideal choice for families seeking spacious living in a well-planned gated community.",
+      "faqs": [],
+      "isFavourites": false
+    }
+  ],
+  "mapDetails": [
+    {
+      "id": 297,
+      "lat": "12.8656865",
+      "lng": "80.1902963",
+      "name": "Jones Cassia",
+      "price": "₹ 1.50 Cr - 2.30 Cr"
+    },
+    {
+      "id": 449,
+      "lat": "12.9025794",
+      "lng": "80.2464401",
+      "name": "Adityaram Palace City",
+      "price": "₹ 4.30 Cr - 8.50 Cr"
+    },
+    {
+      "id": 494,
+      "lat": "12.8499595",
+      "lng": "80.2306435",
+      "name": "Inara",
+      "price": "₹ 1.00 Cr - 3.00 Cr"
+    },
+    {
+      "id": 544,
+      "lat": "12.9624975",
+      "lng": "79.94527479999999",
+      "name": "Town And Country",
+      "price": "₹ 87.00 Lac - 1.20 Cr"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 50,
+    "total": 4,
+    "total_pages": 1
+  }
+}
